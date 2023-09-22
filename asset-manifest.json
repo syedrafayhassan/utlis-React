@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/utlis-React/static/css/main.87db6617.css",
+    "main.js": "/utlis-React/static/js/main.359f61bd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/utlis-React/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/utlis-React/index.html",
+    "main.87db6617.css.map": "/utlis-React/static/css/main.87db6617.css.map",
+    "main.359f61bd.js.map": "/utlis-React/static/js/main.359f61bd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/utlis-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87db6617.css",
+    "static/js/main.359f61bd.js"
+  ]
+}
